@@ -1,0 +1,11 @@
+Library/
+Temp/
+Assembly-CSharp-Editor-vs.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
+Assembly-UnityScript-vs.unityproj
+Assembly-UnityScript.unityproj
+UITools-csharp.sln
+UITools.sln
+UITools.userprefs
